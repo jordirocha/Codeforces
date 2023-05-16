@@ -1,0 +1,15 @@
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\bin\Debug\net6.0\A. Football.exe
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\bin\Debug\net6.0\A. Football.deps.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\bin\Debug\net6.0\A. Football.runtimeconfig.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\bin\Debug\net6.0\A. Football.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\bin\Debug\net6.0\A. Football.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\A. Football.csproj.AssemblyReference.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\A. Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\A. Football.AssemblyInfoInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\A. Football.AssemblyInfo.cs
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\A. Football.csproj.CoreCompileInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\A. Football.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\refint\A. Football.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\A. Football.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\A. Football.genruntimeconfig.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Football\obj\Debug\net6.0\ref\A. Football.dll

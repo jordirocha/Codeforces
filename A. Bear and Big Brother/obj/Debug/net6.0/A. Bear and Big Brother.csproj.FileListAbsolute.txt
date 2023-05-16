@@ -1,0 +1,15 @@
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\bin\Debug\net6.0\A. Bear and Big Brother.exe
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\bin\Debug\net6.0\A. Bear and Big Brother.deps.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\bin\Debug\net6.0\A. Bear and Big Brother.runtimeconfig.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\bin\Debug\net6.0\A. Bear and Big Brother.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\bin\Debug\net6.0\A. Bear and Big Brother.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\A. Bear and Big Brother.csproj.AssemblyReference.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\A. Bear and Big Brother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\A. Bear and Big Brother.AssemblyInfoInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\A. Bear and Big Brother.AssemblyInfo.cs
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\A. Bear and Big Brother.csproj.CoreCompileInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\A. Bear and Big Brother.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\refint\A. Bear and Big Brother.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\A. Bear and Big Brother.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\A. Bear and Big Brother.genruntimeconfig.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Bear and Big Brother\obj\Debug\net6.0\ref\A. Bear and Big Brother.dll

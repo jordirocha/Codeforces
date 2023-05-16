@@ -1,0 +1,15 @@
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\bin\Debug\net6.0\A. Stones on the Table.exe
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\bin\Debug\net6.0\A. Stones on the Table.deps.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\bin\Debug\net6.0\A. Stones on the Table.runtimeconfig.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\bin\Debug\net6.0\A. Stones on the Table.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\bin\Debug\net6.0\A. Stones on the Table.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\A. Stones on the Table.csproj.AssemblyReference.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\A. Stones on the Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\A. Stones on the Table.AssemblyInfoInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\A. Stones on the Table.AssemblyInfo.cs
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\A. Stones on the Table.csproj.CoreCompileInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\A. Stones on the Table.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\refint\A. Stones on the Table.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\A. Stones on the Table.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\A. Stones on the Table.genruntimeconfig.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Stones on the Table\obj\Debug\net6.0\ref\A. Stones on the Table.dll

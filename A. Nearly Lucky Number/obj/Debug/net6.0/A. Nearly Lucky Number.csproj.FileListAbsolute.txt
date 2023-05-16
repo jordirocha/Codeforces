@@ -1,0 +1,15 @@
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\bin\Debug\net6.0\A. Nearly Lucky Number.exe
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\bin\Debug\net6.0\A. Nearly Lucky Number.deps.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\bin\Debug\net6.0\A. Nearly Lucky Number.runtimeconfig.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\bin\Debug\net6.0\A. Nearly Lucky Number.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\bin\Debug\net6.0\A. Nearly Lucky Number.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\A. Nearly Lucky Number.csproj.AssemblyReference.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\A. Nearly Lucky Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\A. Nearly Lucky Number.AssemblyInfoInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\A. Nearly Lucky Number.AssemblyInfo.cs
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\A. Nearly Lucky Number.csproj.CoreCompileInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\A. Nearly Lucky Number.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\refint\A. Nearly Lucky Number.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\A. Nearly Lucky Number.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\A. Nearly Lucky Number.genruntimeconfig.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Nearly Lucky Number\obj\Debug\net6.0\ref\A. Nearly Lucky Number.dll

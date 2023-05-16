@@ -1,0 +1,15 @@
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\bin\Debug\net6.0\A. Word.exe
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\bin\Debug\net6.0\A. Word.deps.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\bin\Debug\net6.0\A. Word.runtimeconfig.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\bin\Debug\net6.0\A. Word.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\bin\Debug\net6.0\A. Word.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\A. Word.csproj.AssemblyReference.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\A. Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\A. Word.AssemblyInfoInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\A. Word.AssemblyInfo.cs
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\A. Word.csproj.CoreCompileInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\A. Word.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\refint\A. Word.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\A. Word.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\A. Word.genruntimeconfig.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Word\obj\Debug\net6.0\ref\A. Word.dll

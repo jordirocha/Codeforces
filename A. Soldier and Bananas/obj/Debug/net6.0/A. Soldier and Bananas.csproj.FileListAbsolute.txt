@@ -1,0 +1,15 @@
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\bin\Debug\net6.0\A. Soldier and Bananas.exe
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\bin\Debug\net6.0\A. Soldier and Bananas.deps.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\bin\Debug\net6.0\A. Soldier and Bananas.runtimeconfig.json
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\bin\Debug\net6.0\A. Soldier and Bananas.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\bin\Debug\net6.0\A. Soldier and Bananas.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\A. Soldier and Bananas.csproj.AssemblyReference.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\A. Soldier and Bananas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\A. Soldier and Bananas.AssemblyInfoInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\A. Soldier and Bananas.AssemblyInfo.cs
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\A. Soldier and Bananas.csproj.CoreCompileInputs.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\A. Soldier and Bananas.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\refint\A. Soldier and Bananas.dll
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\A. Soldier and Bananas.pdb
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\A. Soldier and Bananas.genruntimeconfig.cache
+C:\Users\jordy\OneDrive\Documentos\CodeForces\A. Soldier and Bananas\obj\Debug\net6.0\ref\A. Soldier and Bananas.dll
